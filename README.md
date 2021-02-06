@@ -1,6 +1,6 @@
 # image-text-nontext
 This is an implementation of **predict whether an image has TEXT or NOT?** challenge on kaggle.
-I took the dataset from this link : https://www.kaggle.com/c/padhai-module1-level-1.
+I took the dataset from this link : https://www.kaggle.com/c/padhai-module1-level2.
 
 
 **About Dataset** : The goal is to identify the presence of a character in images.  The character images are compiled in Tamil, Hindi and English.
