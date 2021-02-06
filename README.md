@@ -1,5 +1,4 @@
 # image-text-nontext
-# image-text-nontext
 This is an implementation of **predict whether an image has TEXT or NOT?** challenge on kaggle.
 I took the dataset from this link : https://www.kaggle.com/c/padhai-module1-level-1.
 
